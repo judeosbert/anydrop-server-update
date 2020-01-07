@@ -3,5 +3,8 @@
 		"v": "1.0",
 		"bn": 1,
 		"force": false
+		"sv":"1.0",
+		"sbn":1,
+		"sforce":false
 	}
 }
