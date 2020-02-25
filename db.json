@@ -1,8 +1,8 @@
 {
 	"info": {
-		"v": "1.0",
-		"bn": 1,
-		"force": false,
+		"v": "0.0.3",
+		"bn": 3,
+		"force": true,
 		"sv":"0.0.2",
 		"sbn":2,
 		"sforce":true
